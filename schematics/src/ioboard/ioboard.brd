@@ -137,9 +137,6 @@
 <text x="47.625" y="31.115" size="1.27" layer="25" font="vector" rot="R90">THOMAS HENRY
 566 VCO - IO V1.1
 GERBSTER.NL 2021</text>
-<text x="-32.385" y="64.135" size="1.27" layer="25" font="vector" rot="R90">THOMAS HENRY
-566 VCO
-GERBSTER.NL 2021</text>
 </plain>
 <libraries>
 <library name="resistor">
