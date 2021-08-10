@@ -8722,7 +8722,7 @@ Source: AVX .. aphvc.pdf</description>
 <part name="R23" library="resistor" deviceset="R-US_" device="0204/7" value="2.2m"/>
 <part name="R24" library="resistor" deviceset="R-US_" device="0204/7" value="2.2k"/>
 <part name="R25" library="resistor" deviceset="R-US_" device="0204/7" value="3k"/>
-<part name="R26" library="resistor" deviceset="R-US_" device="0204/7" value="1.5k"/>
+<part name="R26" library="resistor" deviceset="R-US_" device="0204/7" value="3k"/>
 <part name="R27" library="resistor" deviceset="R-US_" device="0204/7" value="180k"/>
 <part name="GND12" library="supply1" deviceset="GND" device=""/>
 <part name="GND13" library="supply1" deviceset="GND" device=""/>

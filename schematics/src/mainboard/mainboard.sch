@@ -17388,7 +17388,7 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <part name="R29" library="resistor" deviceset="R-US_" device="0204/7" value="2.2k"/>
 <part name="R30" library="resistor" deviceset="R-US_" device="0204/7" value="2.2m"/>
 <part name="R31" library="resistor" deviceset="R-US_" device="0204/7" value="3k"/>
-<part name="R32" library="resistor" deviceset="R-US_" device="0204/7" value="1.5k"/>
+<part name="R32" library="resistor" deviceset="R-US_" device="0204/7" value="3k"/>
 <part name="R33" library="resistor" deviceset="R-US_" device="0204/7" value="10k"/>
 <part name="R34" library="resistor" deviceset="R-US_" device="0204/7" value="10k"/>
 <part name="GND17" library="supply1" deviceset="GND" device=""/>
@@ -17396,7 +17396,7 @@ Source: http://www.bourns.com/data/global/PDFs/3223.PDF</description>
 <part name="P+4" library="supply1" deviceset="+12V" device=""/>
 <part name="R35" library="resistor" deviceset="R-US_" device="0204/7" value="2.2m"/>
 <part name="R36" library="resistor" deviceset="R-US_" device="0204/7" value="3k"/>
-<part name="R37" library="resistor" deviceset="R-US_" device="0204/7" value="1.5k"/>
+<part name="R37" library="resistor" deviceset="R-US_" device="0204/7" value="3k"/>
 <part name="R38" library="resistor" deviceset="R-US_" device="0204/7" value="10k"/>
 <part name="R39" library="resistor" deviceset="R-US_" device="0204/7" value="10k"/>
 <part name="R40" library="resistor" deviceset="R-US_" device="0204/7" value="2.2k"/>

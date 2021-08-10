@@ -2746,7 +2746,7 @@ design rules under a new name.</description>
 <attribute name="NAME" x="3.175" y="29.21" size="0.9906" layer="25" font="vector" ratio="10" rot="R90"/>
 <attribute name="VALUE" x="2.0574" y="32.7406" size="0.9906" layer="27" ratio="10" rot="R270"/>
 </element>
-<element name="R26" library="resistor" package="0204/7" value="1.5k" x="2.54" y="6.35" smashed="yes" rot="R90">
+<element name="R26" library="resistor" package="0204/7" value="3k" x="2.54" y="6.35" smashed="yes" rot="R90">
 <attribute name="NAME" x="1.905" y="8.255" size="0.9906" layer="25" font="vector" ratio="10" rot="R270"/>
 <attribute name="VALUE" x="3.0226" y="4.7244" size="0.9906" layer="27" ratio="10" rot="R90"/>
 </element>
